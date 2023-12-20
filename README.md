@@ -10,7 +10,7 @@ I am frontend developer who love react js ! .
 * ✉️  You can contact me at [moreavishkar12@gmail.com](mailto:moreavishkar12@gmail.com)
 * 🧠  I'm learning React Library , Spring boot .
 * 🤝  I'm open to collaborating on Projects .
-* ⚡  I am Intermediate learner about frontend ,Tell me any thing about react.
+* ⚡  I am Intermediate learner in frontend ,Tell me any thing about react js.
 
 ### Skills
 
