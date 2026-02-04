@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **Azure,CI CD Piplines**
+- 🌱 I’m currently **Looking For Frontend Developer Role**
 - 💬 Ask me about **React ,JavaScript**
 - 📫 How to reach me **moreavishkar12@gmail.com**
 - 👨‍💻 All of my projects are available at **https://mavishkar12.github.io/MySelf/**
