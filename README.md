@@ -30,6 +30,19 @@
 </div>
 
 ---
+## 🚀 Open to Opportunities — Immediate Joiner
+
+> ⚡ **Currently available and actively seeking roles in:**
+>
+> | Role | Skills |
+> |------|--------|
+> | 💻 **Frontend Developer** | React.js · Next.js · TypeScript · TailwindCSS |
+> | 🌐 **Full Stack Developer** | React · Node.js · Express · MongoDB · REST APIs |
+> | 🤖 **QA Automation Engineer** | Playwright · Jest · React Testing Library |
+>
+> 🟢 **Immediate Joiner** — Available to start right away!  
+> 📬 Reach out: [moreavishkar12@gmail.com](mailto:moreavishkar12@gmail.com)  
+> 🔗 [LinkedIn](https://www.linkedin.com/in/moreavishkar1217/) |
 
 ## 🧑‍💻 About Me
 
