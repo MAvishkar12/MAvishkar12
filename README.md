@@ -41,7 +41,7 @@ const avishkar = {
   currentlyLearning: ["Next.js App Router", "SSR Patterns", "AI Integrations"],
   openTo: "Frontend Developer Roles 🚀",
   contact: "moreavishkar12@gmail.com",
-  funFact: "Achieved 40% load time improvement through lazy loading & code splitting ⚡"
+  funFact: "if (chance === 1%) { keepGoing(); } // success.exe loading... ⚡"
 };
 ```
 
@@ -123,35 +123,6 @@ const avishkar = {
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-### 🎬 Netflix Gemini — AI-Powered Movie Discovery Platform
-[![Live](https://img.shields.io/badge/🚀%20Live%20Demo-FF0000?style=for-the-badge)](https://github.com/MAvishkar12)
-[![Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github)](https://github.com/MAvishkar12)
-
-> Integrated **Google Gemini AI** for natural language movie search — cutting content discovery time by **~50%**  
-> Connected **TMDB API** (500K+ titles) for real-time trending & personalised suggestions  
-> **Redux Toolkit** state management across 5+ feature modules
-
-`React.js` `Redux Toolkit` `Firebase` `Google Gemini API` `Tailwind CSS`
-
----
-
-### 💪 FitPulse — Workout & Exercise Catalogue
-[![Live](https://img.shields.io/badge/🚀%20Live%20Demo-FF6B35?style=for-the-badge)](https://github.com/MAvishkar12)
-[![Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github)](https://github.com/MAvishkar12)
-
-> Serves **1,000+ exercises** across 10+ muscle groups with instant search & pagination  
-> ⚡ **40% faster** page load via React Lazy Loading, Suspense & CDN-optimised assets  
-> Integrated third-party video APIs for instructional workout content
-
-`React.js` `REST APIs` `Tailwind CSS` `React Lazy` `Suspense`
-
-</div>
-
----
 
 ## 📊 GitHub Stats
 
