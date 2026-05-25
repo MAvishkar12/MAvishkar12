@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Avishkar%20More&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20React%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=60&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Avishkar%20More&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20React%20%7C%20Next.js%20%7C%20QA%20Automation&descAlignY=60&descAlign=50" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Frontend-focused+Full+Stack+Developer+%F0%9F%9A%80;React.js+%7C+Next.js+%7C+TypeScript+Expert+%E2%9C%A8;Building+Performant+%26+Scalable+Web+Apps+%F0%9F%8C%90;Open+to+Frontend+Developer+Roles+%F0%9F%92%BC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Frontend+Developer+%7C+QA+Automation+Engineer+%F0%9F%9A%80;React.js+%7C+Next.js+%7C+TypeScript+Expert+%E2%9C%A8;Building+Performant+%26+Scalable+Web+Apps+%F0%9F%8C%90;Playwright+%7C+Jest+%7C+React+Testing+Library+%F0%9F%A7%AA;Open+to+Frontend+%26+QA+Developer+Roles+%F0%9F%92%BC" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -37,7 +37,6 @@
 > | Role | Skills |
 > |------|--------|
 > | 💻 **Frontend Developer** | React.js · Next.js · TypeScript · TailwindCSS |
-> | 🌐 **Full Stack Developer** | React · Node.js · Express · MongoDB · REST APIs |
 > | 🤖 **QA Automation Engineer** | Playwright · Jest · React Testing Library |
 >
 > 🟢 **Immediate Joiner** — Available to start right away!  
@@ -49,10 +48,10 @@
 ```javascript
 const avishkar = {
   location: "Pune, Maharashtra, India 🇮🇳",
-  role: "Frontend-focused Full Stack Developer",
+  role: "Frontend Developer & QA Automation Engineer",
   experience: "1.5+ years",
   currentlyLearning: ["Next.js App Router", "SSR Patterns", "AI Integrations"],
-  openTo: "Frontend Developer Roles 🚀",
+  openTo: "Frontend Developer & QA Automation Roles 🚀",
   contact: "moreavishkar12@gmail.com",
   funFact: "if (chance === 1%) { keepGoing(); } // success.exe loading... ⚡"
 };
@@ -62,8 +61,9 @@ const avishkar = {
 
 ## 🚀 Professional Summary
 
-> 🎯 Frontend-focused Full Stack Developer with **1.5+ years** building **performant, scalable** web applications using **React.js, Next.js, Node.js, and MongoDB**.  
+> 🎯 Frontend Developer & QA Automation Engineer with **1.5+ years** building **performant, scalable** web applications using **React.js, Next.js, and TypeScript**.  
 > ⚡ Proven **40% improvement** in load times through lazy loading, code splitting, and virtualization.  
+> 🧪 Hands-on experience with **Playwright, Jest, and React Testing Library** for end-to-end and unit testing.  
 > 🤝 Thrive in **agile teams** where code quality, reusability, and fast delivery all matter.
 
 ---
@@ -88,11 +88,10 @@ const avishkar = {
 ![MUI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### 🧪 Testing & QA
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 
 ### 🔧 Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -100,8 +99,6 @@ const avishkar = {
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ---
 
@@ -122,7 +119,7 @@ const avishkar = {
   </tr>
   <tr>
     <td>🏢 <strong>Blocsys Technology</strong></td>
-    <td>Full Stack Engineer</td>
+    <td>Frontend & QA Engineer</td>
     <td>Jun 2024 – May 2025</td>
   </tr>
   <tr>
