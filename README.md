@@ -1,18 +1,18 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Avishkar%20More&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20React%20%7C%20Next.js%20%7C%20QA%20Automation&descAlignY=60&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Avishkar%20More&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=QA%20Automation%20Engineer%20%7C%20Playwright%20%7C%20Jest%20%7C%20API%20Testing&descAlignY=60&descAlign=50" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Frontend+Developer+%7C+QA+Automation+Engineer+%F0%9F%9A%80;React.js+%7C+Next.js+%7C+TypeScript+Expert+%E2%9C%A8;Building+Performant+%26+Scalable+Web+Apps+%F0%9F%8C%90;Playwright+%7C+Jest+%7C+React+Testing+Library+%F0%9F%A7%AA;Open+to+Frontend+%26+QA+Developer+Roles+%F0%9F%92%BC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EAD33&center=true&vCenter=true&random=false&width=700&lines=QA+Automation+Engineer+%F0%9F%A7%AA;Playwright+%7C+Jest+%7C+Supertest+%7C+Postman+%E2%9C%85;API+Testing+%7C+E2E+%7C+Integration+%7C+Performance+%F0%9F%9A%80;TypeScript+%7C+JavaScript+Test+Automation+%E2%9C%A8;Building+Robust+Test+Frameworks+from+Scratch+%F0%9F%8F%97%EF%B8%8F;Open+to+QA+Automation+Engineer+Roles+%F0%9F%92%BC" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Profile Views & Social Badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=MAvishkar12&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=MAvishkar12&label=Profile%20Views&color=2EAD33&style=for-the-badge" alt="Profile Views" />
   <a href="https://www.linkedin.com/in/avishkar-more-1217java/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -30,30 +30,35 @@
 </div>
 
 ---
-## 🚀 Open to Opportunities — Immediate Joiner
+
+## 🧪 Open to Opportunities — Immediate Joiner
 
 > ⚡ **Currently available and actively seeking roles in:**
 >
-> | Role | Skills |
-> |------|--------|
-> | 💻 **Frontend Developer** | React.js · Next.js · TypeScript · TailwindCSS |
-> | 🤖 **QA Automation Engineer** | Playwright · Jest · React Testing Library |
+> | Role | Core Skills |
+> |------|-------------|
+> | 🤖 **QA Automation Engineer** | Playwright · Jest · Supertest · API Testing |
+> | 🔍 **SDET / Test Engineer** | TypeScript · JavaScript · CI/CD · Postman |
 >
 > 🟢 **Immediate Joiner** — Available to start right away!  
 > 📬 Reach out: [moreavishkar12@gmail.com](mailto:moreavishkar12@gmail.com)  
-> 🔗 [LinkedIn](https://www.linkedin.com/in/moreavishkar1217/) |
+> 🔗 [LinkedIn](https://www.linkedin.com/in/moreavishkar1217/)
+
+---
 
 ## 🧑‍💻 About Me
 
 ```javascript
 const avishkar = {
   location: "Pune, Maharashtra, India 🇮🇳",
-  role: "Frontend Developer & QA Automation Engineer",
+  role: "QA Automation Engineer",
   experience: "1.5+ years",
-  currentlyLearning: ["Next.js App Router", "SSR Patterns", "AI Integrations"],
-  openTo: "Frontend Developer & QA Automation Roles 🚀",
+  expertise: ["E2E Automation", "API Testing", "Test Framework Design", "CI/CD Integration"],
+  tools: ["Playwright", "Jest", "Supertest", "Postman", "Newman"],
+  languages: ["TypeScript", "JavaScript"],
+  openTo: "QA Automation & SDET Roles 🚀",
   contact: "moreavishkar12@gmail.com",
-  funFact: "if (chance === 1%) { keepGoing(); } // success.exe loading... ⚡"
+  funFact: "if (bug.isFound()) { celebrate(); fix(); ship(); } // quality.exe ✅"
 };
 ```
 
@@ -61,44 +66,44 @@ const avishkar = {
 
 ## 🚀 Professional Summary
 
-> 🎯 Frontend Developer & QA Automation Engineer with **1.5+ years** building **performant, scalable** web applications using **React.js, Next.js, and TypeScript**.  
-> ⚡ Proven **40% improvement** in load times through lazy loading, code splitting, and virtualization.  
-> 🧪 Hands-on experience with **Playwright, Jest, and React Testing Library** for end-to-end and unit testing.  
-> 🤝 Thrive in **agile teams** where code quality, reusability, and fast delivery all matter.
+> 🎯 **QA Automation Engineer** with **1.5+ years** designing and implementing robust test automation frameworks using **Playwright, Jest, and Supertest**.  
+> 🧪 Expertise in **End-to-End, API, Integration, and Unit testing** with a strong focus on test reliability and coverage.  
+> ⚡ Reduced bug recurrence by **25%** and improved release confidence through systematic test automation strategies.  
+> 🤝 Thrive in **Agile/Scrum teams**, collaborating with developers and product owners to shift quality left.  
+> 🔧 Comfortable building test infrastructure from scratch — POM, fixtures, custom reporters, and CI pipelines.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ QA Tech Stack
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-### 🧠 State Management
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
-
-### 🎨 Styling & UI
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![MUI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### 🧪 Testing & QA
+### 🧪 Test Automation Frameworks
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![React Testing Library](https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+![Supertest](https://img.shields.io/badge/Supertest-000000?style=for-the-badge&logo=node.js&logoColor=white)
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
+![Chai](https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
 
-### 🔧 Tools & DevOps
+### 🌐 API Testing
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Newman](https://img.shields.io/badge/Newman_CLI-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### ⚙️ CI/CD & DevOps
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+
+### 📊 Reporting & Management
+![Allure](https://img.shields.io/badge/Allure_Reports-FFA500?style=for-the-badge&logo=statuspage&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 
 ---
 
@@ -107,32 +112,48 @@ const avishkar = {
 <table>
   <tr>
     <td>🏢 <strong>Anveshak Technology & Knowledge Solutions</strong></td>
-    <td>Frontend Engineer</td>
+    <td>QA Automation Engineer</td>
     <td>Jun 2025 – May 2026</td>
   </tr>
   <tr>
     <td colspan="3">
-      • Architected production-grade React.js app with WCAG-compliant, responsive UIs<br/>
-      • ⚡ <strong>40% performance boost</strong> via lazy loading, code splitting & virtualization<br/>
-      • Built reusable component library → <strong>30% faster</strong> feature development
+      • Designed and maintained E2E test suites using <strong>Playwright + TypeScript</strong> covering critical user journeys<br/>
+      • Built API test automation layer using <strong>Supertest & Postman/Newman</strong> for REST endpoint validation<br/>
+      • Integrated automated test runs into <strong>GitHub Actions CI/CD</strong> pipelines — catching regressions pre-merge<br/>
+      • Implemented <strong>Page Object Model (POM)</strong> pattern for maintainable, scalable test architecture<br/>
+      • Generated <strong>Allure Reports</strong> with detailed pass/fail breakdowns shared with stakeholders after each release
     </td>
   </tr>
   <tr>
     <td>🏢 <strong>Blocsys Technology</strong></td>
-    <td>Frontend & QA Engineer</td>
+    <td>QA Engineer</td>
     <td>Jun 2024 – May 2025</td>
   </tr>
   <tr>
     <td colspan="3">
-      • Built dynamic React.js apps with REST API integrations & real-time data updates<br/>
-      • 🐛 Reduced bug recurrence by <strong>25%</strong> via performance debugging<br/>
-      • Authored unit & integration tests with Jest & React Testing Library
+      • Authored unit and integration tests using <strong>Jest & React Testing Library</strong> achieving 80%+ coverage<br/>
+      • 🐛 Reduced bug recurrence by <strong>25%</strong> through systematic regression and smoke test suites<br/>
+      • Performed <strong>API contract testing</strong> with Postman collections for REST APIs with real-time data<br/>
+      • Collaborated in <strong>Agile sprints</strong> — wrote test plans, reported defects in Jira, participated in QA sign-offs<br/>
+      • Debugged flaky tests and improved test stability across cross-browser environments
     </td>
   </tr>
 </table>
 
 ---
 
+## 🔬 What I Test & How
+
+```
+📦 E2E Testing        →  Playwright (TypeScript) · Page Object Model · Fixtures · Retries
+🌐 API Testing        →  Supertest · Postman · Newman · REST / GraphQL · Schema Validation
+🧩 Unit & Integration →  Jest · React Testing Library · Mocking · Spies · Stubs
+⚡ Performance        →  Lighthouse CI · Basic load profiling with Playwright
+🔄 CI Integration     →  GitHub Actions · Jenkins · Scheduled test runs · Slack alerts
+📊 Reporting          →  Allure · HTML Reports · Console dashboards
+```
+
+---
 
 ## 📊 GitHub Stats
 
@@ -167,7 +188,7 @@ const avishkar = {
 
 ---
 
-## 🌐 Coding Profiles
+## 🌐 Profiles
 
 <div align="center">
 
@@ -182,8 +203,9 @@ const avishkar = {
 
 ### 💬 Let's Connect!
 
-*"Code is like humor. When you have to explain it, it's bad." — Cory House*
+*"Quality is not an act, it is a habit." — Aristotle*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 </div>
+
