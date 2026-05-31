@@ -13,7 +13,7 @@
 <!-- Profile Views & Social Badges -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=MAvishkar12&label=Profile%20Views&color=2EAD33&style=for-the-badge" alt="Profile Views" />
-  <a href="https://www.linkedin.com/in/avishkar-more-1217java/">
+  <a href="https://www.linkedin.com/in/moreavishkar1217/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:moreavishkar12@gmail.com">
